@@ -4,6 +4,7 @@ import { RiAncientPavilionFill } from "react-icons/ri";
 import { TButton } from "./components/Button/styles";
 import { MdAddShoppingCart } from "react-icons/md";
 import { FcCamera } from "react-icons/fc";
+import { SelectInput } from "./components/List/SelectInput";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <TButton>
         <RiAncientPavilionFill />
       </TButton>
+      <SelectInput />
     </>
   )
 }

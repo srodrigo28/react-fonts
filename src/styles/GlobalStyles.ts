@@ -12,7 +12,6 @@ export default createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
     font-family: 'Comme', sans-serif;
-    background-color: violet;
 
     border: none;
     outline: none;
